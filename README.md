@@ -25,13 +25,6 @@ A **Worm Language Translator** that converts English words into their Worm equiv
 ## Preview
 ![Worm Translator Preview](wormlator.png)
 
-## Installation
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/Frogtato/Worm-Translator.git
-   ```
-2. Open `index.html` in your browser.
-
 ## License
 This project is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)**. See the [LICENSE](LICENSE) file for details.
 
