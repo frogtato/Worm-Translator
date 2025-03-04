@@ -14,6 +14,9 @@ A **Worm Language Translator** that converts English words into their Worm equiv
 3. Click the **Translate** button.
 4. View the translated text in the output box.
 
+## Pages
+- [Worm Translator](https://frogtato.github.io/Worm-Translator) 
+
 ## Technologies Used
 - **HTML** 
 - **CSS** 
